@@ -4,6 +4,6 @@ Here are some facts about me!
 - 💬 Ask me about anything you want!
 - :grey_question: My favourite subjects are: HPC, Computer Architecture, Systems Programming and Software Optimizations
 - 📫 Reach me: 
-  * By e-mail: [thanoskastoras@gmail.com](mailto:thanoskastoras@gmail.com) or [akastoras@uth.gr](mailto:akastoras@uth.gr)
+  * By e-mail: akastoras AT uth DOT gr
   * Or via [LinkedIn](https://www.linkedin.com/in/thanos-kastoras-89a40a1a4/)
 
