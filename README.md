@@ -1,8 +1,5 @@
-### Hi there 👋
-Here are some facts about me!
-- 🔭 I’m currently studying ECE at the University of Thessaly
-- :grey_question: My research interests include: HPC, Computer Architecture, Systems Programming, Compilers and Embedded Systems
-- 📫 Reach me: 
-  * By e-mail: akastoras AT uth DOT gr
-  * In [LinkedIn](https://www.linkedin.com/in/thanos-kastoras-89a40a1a4/)
+- Electrical and Computer Engineering, University of Thessaly
+- Junior Research Engineer, Barcelona Supercomputing Center
+- I like Compilers, Computer Architecture, Accelerators, and everything in between.
 
+My website can be found [here](https://akastoras.github.io/)
